@@ -1,4 +1,4 @@
-expo / expo Issue#: [ADD ISSUE LINK HERE]
+expo / expo Issue#: [ISSUE LINK](https://github.com/expo/expo/issues/34548#issue-2818743646)
 
 ## Steps to create repo and reproduce error
 1. `npx create-expo-app@latest --template blank`
