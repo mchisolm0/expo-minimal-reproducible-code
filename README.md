@@ -2,7 +2,8 @@ expo / expo Issue#: [ADD ISSUE LINK HERE]
 
 ## Steps to create repo and reproduce error
 1. `npx create-expo-app@latest --template blank`
-2. `npm run android`
+2. Install Android Studio and SDK with the defaults (on CachyOS Linux, default SDK is to `~/Android/Sdk`)
+3. `npm run android`
 
 ## Output from expo-cli
 ```
